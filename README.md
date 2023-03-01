@@ -4,7 +4,7 @@ Hi 👋 My name Ster Ferreira
 
 
 
-I'm a 25 years old developer and hacking since I was 23. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front end development, making applications that impact the life of thousands of users.
+I'm a young developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front end development, making applications that impact the life of thousands of users.
 
 
 I am also a RocketSeat studend.
