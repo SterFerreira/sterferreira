@@ -1,4 +1,4 @@
-Hi 👋 My name is Guilhermo
+Hi 👋 My name Ster Ferreira
 -----------------------------
 💻ㅤFront-end Developer.
 
